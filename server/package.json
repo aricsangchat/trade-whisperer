@@ -1,0 +1,17 @@
+{
+  "name": "extension-node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "node-binance-api": "^0.8.1",
+    "nodemailer": "^4.6.7"
+  }
+}

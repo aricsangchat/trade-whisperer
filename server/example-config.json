@@ -1,0 +1,7 @@
+{
+  "BINANCE_APIKEY": "your binance key",
+  "BINANCE_APISECRET": "your binance secret",
+  "emailProvider": "your email provider ie gmail",
+  "email": "your email",
+  "emailPassword": "your email password"
+}
